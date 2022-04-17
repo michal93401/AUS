@@ -1,0 +1,211 @@
+﻿  list_test.cpp
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(357,39): warning C4456: declaration of 'list' hides previous local declaration
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(355,26): message : see declaration of 'list'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(360,46): warning C4456: declaration of 'list' hides previous local declaration
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(355,26): message : see declaration of 'list'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(357,32): warning C4189: 'list': local variable is initialized but not referenced
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(360,39): warning C4189: 'list': local variable is initialized but not referenced
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(432,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(443,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(454,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(465,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(476,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(487,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\array_list.h(183,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\array_list.h(178): message : while compiling class template member function 'bool structures::ArrayList<int>::equals(structures::Structure &)'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(143): message : see reference to function template instantiation 'bool structures::ArrayList<int>::equals(structures::Structure &)' being compiled
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(41): message : see reference to class template instantiation 'structures::ArrayList<int>' being compiled
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\array_list.h(207,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\array_list.h(203): message : while compiling class template member function 'void structures::ArrayList<int>::add(const T &)'
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(98): message : see reference to function template instantiation 'void structures::ArrayList<int>::add(const T &)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\array_list.h(222,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\array_list.h(213): message : while compiling class template member function 'void structures::ArrayList<int>::insert(const T &,int)'
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(111): message : see reference to function template instantiation 'void structures::ArrayList<int>::insert(const T &,int)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\array_list.h(244,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\array_list.h(241): message : while compiling class template member function 'T structures::ArrayList<T>::removeAt(int)'
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(183): message : see reference to function template instantiation 'T structures::ArrayList<T>::removeAt(int)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\array_list.h(254,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\array_list.h(252): message : while compiling class template member function 'int structures::ArrayList<int>::getIndexOf(const T &)'
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(185): message : see reference to function template instantiation 'int structures::ArrayList<int>::getIndexOf(const T &)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\array_list.h(255,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(371,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(365): message : while compiling class template member function 'int structures::LinkedList<int>::getIndexOf(const T &)'
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(307): message : see reference to function template instantiation 'int structures::LinkedList<int>::getIndexOf(const T &)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(53): message : see reference to class template instantiation 'structures::LinkedList<int>' being compiled
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(181,13): error C2248: 'structures::LinkedList<int>::size_': cannot access private member declared in class 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(118): message : see declaration of 'structures::LinkedList<int>::size_'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(53): message : see declaration of 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(179): message : while compiling class template member function 'void structures::DoubleLinkedList<int>::add(const T &)'
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(219): message : see reference to function template instantiation 'void structures::DoubleLinkedList<int>::add(const T &)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(218): message : see reference to class template instantiation 'structures::DoubleLinkedList<int>' being compiled
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(182,13): error C2248: 'structures::LinkedList<int>::first_': cannot access private member declared in class 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(120): message : see declaration of 'structures::LinkedList<int>::first_'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(53): message : see declaration of 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(185,13): error C2248: 'structures::LinkedList<int>::last_': cannot access private member declared in class 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(122): message : see declaration of 'structures::LinkedList<int>::last_'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(53): message : see declaration of 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(186,73): error C2248: 'structures::LinkedList<int>::last_': cannot access private member declared in class 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(122): message : see declaration of 'structures::LinkedList<int>::last_'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(53): message : see declaration of 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(188,9): error C2248: 'structures::LinkedList<int>::last_': cannot access private member declared in class 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(122): message : see declaration of 'structures::LinkedList<int>::last_'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(53): message : see declaration of 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(189,9): error C2248: 'structures::LinkedList<int>::size_': cannot access private member declared in class 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(118): message : see declaration of 'structures::LinkedList<int>::size_'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(53): message : see declaration of 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(195,22): error C2248: 'structures::LinkedList<int>::size_': cannot access private member declared in class 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(118): message : see declaration of 'structures::LinkedList<int>::size_'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(53): message : see declaration of 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(194): message : while compiling class template member function 'void structures::DoubleLinkedList<int>::insert(const T &,int)'
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(232): message : see reference to function template instantiation 'void structures::DoubleLinkedList<int>::insert(const T &,int)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(199,56): error C2248: 'structures::LinkedList<int>::size_': cannot access private member declared in class 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(118): message : see declaration of 'structures::LinkedList<int>::size_'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(53): message : see declaration of 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(202,34): error C2248: 'structures::LinkedList<int>::first_': cannot access private member declared in class 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(120): message : see declaration of 'structures::LinkedList<int>::first_'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(53): message : see declaration of 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(203,17): error C2248: 'structures::LinkedList<int>::first_': cannot access private member declared in class 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(120): message : see declaration of 'structures::LinkedList<int>::first_'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(53): message : see declaration of 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(203,25): error C2039: 'setPrevious': is not a member of 'structures::LinkedListItem<T>'
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(120): message : see declaration of 'structures::LinkedListItem<T>'
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(204,17): error C2248: 'structures::LinkedList<int>::first_': cannot access private member declared in class 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(120): message : see declaration of 'structures::LinkedList<int>::first_'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(53): message : see declaration of 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(211,37): error C2039: 'setPrevious': is not a member of 'structures::LinkedListItem<T>'
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(120): message : see declaration of 'structures::LinkedListItem<T>'
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(213,13): error C2248: 'structures::LinkedList<int>::size_': cannot access private member declared in class 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(118): message : see declaration of 'structures::LinkedList<int>::size_'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(53): message : see declaration of 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(228,40): error C2248: 'structures::LinkedList<int>::size_': cannot access private member declared in class 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(118): message : see declaration of 'structures::LinkedList<int>::size_'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(53): message : see declaration of 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(226): message : while compiling class template member function 'T structures::DoubleLinkedList<T>::removeAt(int)'
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(305): message : see reference to function template instantiation 'T structures::DoubleLinkedList<T>::removeAt(int)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(230,62): error C2248: 'structures::LinkedList<int>::first_': cannot access private member declared in class 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(120): message : see declaration of 'structures::LinkedList<int>::first_'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(53): message : see declaration of 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(231,13): error C2248: 'structures::LinkedList<int>::first_': cannot access private member declared in class 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(120): message : see declaration of 'structures::LinkedList<int>::first_'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(53): message : see declaration of 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(231,32): error C2039: 'setPrevious': is not a member of 'structures::LinkedListItem<T>'
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(120): message : see declaration of 'structures::LinkedListItem<T>'
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(232,13): error C2248: 'structures::LinkedList<int>::first_': cannot access private member declared in class 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(120): message : see declaration of 'structures::LinkedList<int>::first_'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(53): message : see declaration of 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(232,22): error C2248: 'structures::LinkedList<int>::first_': cannot access private member declared in class 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(120): message : see declaration of 'structures::LinkedList<int>::first_'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(53): message : see declaration of 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(233,17): error C2248: 'structures::LinkedList<int>::last_': cannot access private member declared in class 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(122): message : see declaration of 'structures::LinkedList<int>::last_'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(53): message : see declaration of 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(234,17): error C2248: 'structures::LinkedList<int>::last_': cannot access private member declared in class 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(122): message : see declaration of 'structures::LinkedList<int>::last_'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(53): message : see declaration of 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(241,33): error C2039: 'setPrevious': is not a member of 'structures::LinkedListItem<T>'
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(120): message : see declaration of 'structures::LinkedListItem<T>'
+          with
+          [
+              T=int
+          ]
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(242,17): error C2248: 'structures::LinkedList<int>::last_': cannot access private member declared in class 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(122): message : see declaration of 'structures::LinkedList<int>::last_'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(53): message : see declaration of 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(243,17): error C2248: 'structures::LinkedList<int>::last_': cannot access private member declared in class 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(122): message : see declaration of 'structures::LinkedList<int>::last_'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(53): message : see declaration of 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\double_linked_list.h(250,9): error C2248: 'structures::LinkedList<int>::size_': cannot access private member declared in class 'structures::LinkedList<int>'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\structures\list\linked_list.h(118): message : see declaration of 'structures::LinkedList<int>::size_'
+C:\Users\micha\OneDrive\Počítač\škola\4.semester\AUS\AUS_VS2022\tests\list\list_test.cpp(53): message : see declaration of 'structures::LinkedList<int>'
